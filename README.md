@@ -1,11 +1,11 @@
-# mentoring# First.js 과제
+# First 과제(숫자 야구 게임)
 ## 과제 개요
 
 과제 링크: https://jobskill.notion.site/1ceef80be65f81aa955dd9db3f6c55e8
 
 현재 진행 상황: 2단계까지 구현 완료
 
-개발 방식: 객체지향적 설계(OOP) 및 클린 코드 원칙 적용
+개발 방식: 객체지향적 설계(OOP) 및 클린 코드 원칙 적용. 최대한 객체지향이라는 피드백에 맞춰서 수정 시도했습니다.
 
 ## 개선 사항 (피드백 반영 내역)
 
@@ -24,3 +24,15 @@ watchHistory는 기록을 볼수 있는 메서드로 보입니다. 근데 저장
 축약어가 많네요. 축약어를 줄여주세요.
 
 random은 명사입니다. 함수는 동사를 써야 합니다.
+
+
+# Second 과제(계산기 구현)
+## 과제 개요
+
+과제 링크: https://www.figma.com/community/file/1478382028461596980
+
+현재 진행 상황: eval 대신 new Function()을 사용한 것(main.js)과 둘 다 사용하지 않고 tokenize와 parse 활용한 구현(safe.js) 완료
+
+## 개선 사항 (피드백 반영 내역)
+
+
